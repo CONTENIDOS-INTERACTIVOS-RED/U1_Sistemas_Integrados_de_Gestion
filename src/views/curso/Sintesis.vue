@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La Unidad 1: Integración de los sistemas de gestión y la gestión integral, introduce los conceptos esenciales para comprender la necesidad y ventajas de los sistemas integrados de gestión en las organizaciones. A lo largo de esta unidad, se exploran los principios de calidad, medio ambiente y seguridad como pilares fundamentales para optimizar recursos, mejorar la toma de decisiones y fomentar la sostenibilidad. Este enfoque integral busca capacitar a los estudiantes para liderar procesos de gestión más eficientes y estratégicos, posicionándolos como agentes de cambio en un entorno empresarial dinámico y competitivo.
 
       .row.justify-content-center
         .col-lg-12.mb-5
