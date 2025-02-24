@@ -9,19 +9,19 @@
           .row
             .col-md-auto
               figure.mb-4.mb-lg-0
-                img.mx-auto(src="@/assets/curso/tema2/1.svg",style="max-width: 90px;")
+                img.mx-auto(src="@/assets/curso/tema2/1.svg",style="max-width: 90px;", data-aos="zoom-in")
             .col
-              p Después de haber visto el origen y la evolución de los sistemas integrados de gestión, debemos seguir avanzando con el fin de poder comprender como se ha vuelto importante la integración de los sistemas de gestión puesto que se ha consolidado como una práctica esencial para las organizaciones que desean no solo optimizar sus procesos internos, sino también fortalecer su competitividad en un mercado cada vez más exigente. En un contexto donde la eficiencia y la efectividad son cruciales, las empresas buscan adoptar enfoques que les permitan maximizar sus recursos y al mismo tiempo cumplir con las expectativas de diversas partes interesadas.
+              p(data-aos="fade-left") Después de haber visto el origen y la evolución de los sistemas integrados de gestión, debemos seguir avanzando con el fin de poder comprender como se ha vuelto importante la integración de los sistemas de gestión puesto que se ha consolidado como una práctica esencial para las organizaciones que desean no solo optimizar sus procesos internos, sino también fortalecer su competitividad en un mercado cada vez más exigente. En un contexto donde la eficiencia y la efectividad son cruciales, las empresas buscan adoptar enfoques que les permitan maximizar sus recursos y al mismo tiempo cumplir con las expectativas de diversas partes interesadas.
         
-        p.mb-0 Existen diversos sistemas de gestión que pueden ser integrados, cada uno de los cuales aporta un conjunto único de beneficios y enfoques, en esta unidad revisaremos los más destacados que son los siguientes:
+        p.mb-0(data-aos="fade-left") Existen diversos sistemas de gestión que pueden ser integrados, cada uno de los cuales aporta un conjunto único de beneficios y enfoques, en esta unidad revisaremos los más destacados que son los siguientes:
       .col-lg-4
         figure.mb-4.mb-lg-0
-          img.mx-auto(src="@/assets/curso/tema2/2.png",style="max-width: 400px;")
+          img.mx-auto(src="@/assets/curso/tema2/2.png",style="max-width: 400px;", data-aos="zoom-in")
     
     #t_2_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.1] Sistema de Gestión de Calidad (SGC)
     
-    p.mb-4 Lo invitamos a estudiar sobre el SGC:
+    p.mb-4(data-aos="fade-left") Lo invitamos a estudiar sobre el SGC:
 
     .bg-full-width.bg-fondo-slider.mb-4
       .p-4.p-md-5
@@ -64,23 +64,23 @@
     
     .row.mb-4
       .col-lg-8
-        .bg-color-3.p-4.mb-4
+        .bg-color-3.p-4.mb-4(data-aos="fade-left")
           p.mb-0 El Sistema de Gestión de Calidad no solo es una herramienta para asegurar la calidad de los productos y servicios, sino que también es un enfoque estratégico que impulsa la eficiencia operativa, la satisfacción del cliente y la competitividad en el mercado. Al adoptar un SGC basado en normas como la ISO 9001, las organizaciones pueden posicionarse favorablemente en un entorno empresarial cada vez más exigente y dinámico.
         p.mb-0 Así mismo, debemos tener en cuenta que “sin importar la razón detonante, el proceso de diseño, implementación, y el posterior mantenimiento de la ISO 9001, demanda tiempo y recursos valiosos que por lo general son escasos en toda organización.” Vásquez Lema, M. R. (2020). 
       .col-lg-4.order-first.order-lg-last
         figure.mb-4.mb-lg-0
-          img.mx-auto(src="@/assets/curso/tema2/8.png",style="max-width: 400px;")
+          img.mx-auto(src="@/assets/curso/tema2/8.png",style="max-width: 400px;", data-aos="zoom-in")
     
     #t_2_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.2] Sistema de Gestión Ambiental (SGA)
     
-    p.mb-4 Continuemos con el estudio del SGA:
+    p.mb-4(data-aos="fade-left") Continuemos con el estudio del SGA:
 
     .row.mb-4
       .col-lg-4
         figure.mb-4.mb-lg-0
-          img.mx-auto(src="@/assets/curso/tema2/9.png",style="max-width: 400px;")
-      .col-lg-8
+          img.mx-auto(src="@/assets/curso/tema2/9.png",style="max-width: 400px;", data-aos="zoom-in")
+      .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="b")
           .div(titulo="¿En qué se fundamenta?")
             p.mb-4 Se fundamenta en la norma internacional ISO 14001, la cual proporciona un marco sólido para que las organizaciones gestionen sus responsabilidades ambientales de manera efectiva. Este sistema está diseñado específicamente para minimizar el impacto ambiental de todas las actividades, productos y servicios que la organización lleva a cabo, abarcando desde la planificación y el diseño hasta la producción y la distribución.
@@ -95,14 +95,14 @@
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-auto
-            img(src="@/assets/curso/tema2/10.svg", style="max-width: 88px").mx-auto
+            img(src="@/assets/curso/tema2/10.svg", style="max-width: 88px", data-aos="zoom-in").mx-auto
           .col-lg
-            p.mb-0 Un Sistema de Gestión Ambiental basado en la norma ISO 14001 no solo es una herramienta valiosa para garantizar el cumplimiento de la legislación ambiental, sino que también promueve prácticas sostenibles que mejoran la imagen de la organización y atraen a clientes más conscientes del medio ambiente. Implementar un SGA es, por lo tanto, una inversión estratégica que puede ofrecer dividendos significativos tanto para la empresa como para el planeta.
+            p.mb-0(data-aos="fade-left") Un Sistema de Gestión Ambiental basado en la norma ISO 14001 no solo es una herramienta valiosa para garantizar el cumplimiento de la legislación ambiental, sino que también promueve prácticas sostenibles que mejoran la imagen de la organización y atraen a clientes más conscientes del medio ambiente. Implementar un SGA es, por lo tanto, una inversión estratégica que puede ofrecer dividendos significativos tanto para la empresa como para el planeta.
     
     #t_2_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.3] Sistema de Gestión de Seguridad y Salud en el Trabajo (SGSST)
     
-    p.mb-4 Ahora, le toca el turno al SGSST:
+    p.mb-4(data-aos="fade-left") Ahora, le toca el turno al SGSST:
 
     TabsC.color-acento-contenido.mb-5
       .tabs-content.border.px-4.p-md-5.py-3(titulo="¿Qué es?" :icon="require('@/assets/curso/tema2/11.svg')" )
@@ -144,12 +144,12 @@
     
     .row.mb-4
       .col-lg-8
-        .bg-color-3.p-4.mb-4
+        .bg-color-3.p-4.mb-4(data-aos="fade-left")
           p.mb-0 El Sistema de Gestión de Seguridad y Salud en el Trabajo (SGSST) es esencial no solo para cumplir con las normativas legales y estándares internacionales, sino también para construir un lugar de trabajo en el que los empleados puedan desempeñarse de manera óptima y segura. La inversión en la seguridad y la salud laboral es, sin duda, una inversión en el futuro de la organización, que se traduce en beneficios tangibles tanto para los trabajadores como para la empresa en su conjunto.
         p.mb-0 Acabamos de estudiar los tres sistemas de gestión que tienen una gran relevancia en las compañías, dado que son los más usados, pero conviene destacar que existen otros sistemas de gestión que sin duda alguna también se pueden integrar y que a lo largo del tiempo presente están tomando una gran importancia y estos son los siguientes:
       .col-lg-4.order-first.order-lg-last
         figure.mb-4.mb-lg-0
-          img.mx-auto(src="@/assets/curso/tema2/19.png",style="max-width: 400px;")
+          img.mx-auto(src="@/assets/curso/tema2/19.png",style="max-width: 400px;", data-aos="zoom-in")
 
     
     .bg-full-width.bg-color-info
@@ -169,6 +169,24 @@
                   p Utilizando la norma ISO 50001, este sistema tiene como objetivo mejorar la eficiencia energética y reducir costos asociados al consumo de energía. La gestión eficiente de la energía no solo contribuye a la sostenibilidad de la organización, sino que también puede resultar en ahorros significativos que impactan positivamente en la rentabilidad.
     
 
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/42932" target="_blank" rel="noopener noreferrer") Díaz Domínguez, L. F. & Navarro Huerga, M. A. (2014). Sistemas de Gestión Integrada para las Empresas (ERP): ( ed.). Editorial Universidad de Alcalá. 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=W-dignKOzbo" target="_blank" rel="noopener noreferrer") HAZLO TU MISMO. (2023, 8 marzo). Importancia de las Normas ISO 14001-9001-45001-19011- Definición y aplicaciones en la realidad
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
     
   </template>
 
