@@ -187,7 +187,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/85821" target="_blank" rel="noopener noreferrer") SFPIE UV. (2022, 8 abril). Normas ISO 9000: qué son y cómo funcionan
+              a(href="https://youtu.be/OgsfDCEVZts?si=jB0EmmAritbzkNLs" target="_blank" rel="noopener noreferrer") SFPIE UV. (2022, 8 abril). Normas ISO 9000: qué son y cómo funcionan
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
